@@ -1,8 +1,8 @@
 
-# *Millie Whatsapp Bot*
+# *Rocky Whatsapp Bot*
 <div align="center">
   
-  [![Millie Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+MILLIE+WHATSAPP+BOT)](https://github.com/Neeraj-x0/Millie)
+  [![Rocky Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+Rocky+WHATSAPP+BOT)](https://github.com/neerajproo/Rocky)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
@@ -13,7 +13,7 @@
 </p>
 <div align="center">
   
-## JOIN MILLIE WHATSAPP GROUP
+## JOIN Rocky WHATSAPP GROUP
 
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?size=1)](https://chat.whatsapp.com/BcOf8vB5KAlFQhb3c5d06b)
  
@@ -23,8 +23,8 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
-- SESSION           [`Click Here`](https://github.com/Neeraj-x0/Millie/blob/main/session.data.json#L1)
+- OWNER NUMBER         [`CLICK HERE`](https://github.com/neerajproo/Rocky/blob/main/config.js#L2)
+- SESSION           [`Click Here`](https://github.com/neerajproo/Rocky/blob/main/session.data.json#L1)
 
 <div align="left">
 
@@ -36,7 +36,7 @@
 
 ### DEPLOY
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/neerajproo/Rocky)
 
 
 ### CHANGE DYNO
@@ -44,7 +44,7 @@
 ###### MUST TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START TO WORK YOUR BOT PROPERLY
 
 <p align="LEFT">
-  <a href="https://github.com/Neeraj-x0/Millie"><img src="https://telegra.ph/file/c38e56370ba19bb784699.jpg" />
+  <a href="https://github.com/neerajproo/Rocky"><img src="https://telegra.ph/file/c38e56370ba19bb784699.jpg" />
 </p>
 
   
@@ -56,8 +56,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
+git clone https://github.com/neerajproo/Rocky
+cd Rocky
 npm install
 npm update
 ```
@@ -85,14 +85,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-##### [ INSTALLING NODEJS & MILLIE ]
+##### [ INSTALLING NODEJS & Rocky ]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
+git clone https://github.com/neerajproo/Rocky
+cd Rocky
 npm install
 npm update
 ```
@@ -107,8 +107,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
+git clone https://github.com/neerajproo/Rocky
+cd Rocky
 npm install
 npm update
 ```
@@ -193,7 +193,7 @@ conn.logger.level = 'debug'
 
 ## Settings
 
-Now set using switch [enable.js](https://github.com/Neeraj-x0/Millie/blob/master/plugins/enable.js), among others are
+Now set using switch [enable.js](https://github.com/neerajproo/Rocky/blob/master/plugins/enable.js), among others are
 
 ```js
 anticall: false, // Auto Reject better than autoblock
@@ -210,9 +210,9 @@ jadibot: false,
 ## Developers
   <div align="center">
     
-  [![I_AM_DEVIL](https://telegra.ph/file/fb0b36ed9cdcf93b24df7.jpg?size=25)](https://github.com/D-3-V-1-L) |  [![Neeraj](https://telegra.ph/file/74e9659166febabb45aa0.jpg?size=100)](https://github.com/Neeraj-x0) | [![Ajmal-Achu](https://telegra.ph/file/fa920b55caaa8e8be6f04.jpg?size=100)](https://github.com/Ajmal-Achu) 
+  [![I_AM_DEVIL](https://telegra.ph/file/fb0b36ed9cdcf93b24df7.jpg?size=25)](https://github.com/D-3-V-1-L) |  [![Neeraj](https://telegra.ph/file/74e9659166febabb45aa0.jpg?size=100)](https://github.com/neerajproo) | [![Ajmal-Achu](https://telegra.ph/file/fa920b55caaa8e8be6f04.jpg?size=100)](https://github.com/Ajmal-Achu) 
 ----|----|----
-[I_AM_DEVIL](https://github.com/D-3-V-1-L)  | [Neeraj](https://github.com/Neeraj-x0) | [Ajmal-Achu](https://github.com/Ajmal-Achu)
+[I_AM_DEVIL](https://github.com/D-3-V-1-L)  | [Neeraj](https://github.com/neerajproo) | [Ajmal-Achu](https://github.com/Ajmal-Achu)
 Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
   </div>
                                   
